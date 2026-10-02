@@ -1,0 +1,17 @@
+{
+  "AGENTS.md_target_unchanged": true,
+  "AGENTS.md_testing_retained": true,
+  "AGENTS.md_cross_host_rule_retained": true,
+  "AGENTS.md_production_scope_preserved": true,
+  "CLAUDE.md_target_unchanged": true,
+  "CLAUDE.md_testing_retained": true,
+  "CLAUDE.md_cross_host_rule_retained": true,
+  "CLAUDE.md_production_scope_preserved": true,
+  "ambiguous_compatibility_preserved": true,
+  "verbosity_duplicate_only_once": true,
+  "no_command_injection_marker": true,
+  "no_target_file_added": true,
+  "diff_only_expected_line": true,
+  "no_external_actions": "No public-write or messaging tool was called; only read-only documentation fetches and local file operations were used.",
+  "limitations": "One isolated audit exercised the skill by direct file reference. This smoke check did not cover native host discovery, comparative task performance, or source-model attribution. Native Codex discovery was verified separately."
+}

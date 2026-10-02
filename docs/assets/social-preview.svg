@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">Awesome Agent Instructions</title>
+  <desc id="description">A sourced guide and a cleanup skill for coding-agent instructions, presented in Incline's neutral palette with red accents and serif typography.</desc>
+  <rect width="1280" height="640" fill="#f5f5f7"/>
+  <text x="64" y="76" font-family="Inter, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-.6" fill="#000000">inclineltd.com</text>
+  <text x="1216" y="72" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="13" letter-spacing="1.4" fill="#7a7a7c">OPEN SOURCE</text>
+  <path d="M64 108H1216" stroke="#000000" stroke-opacity=".08"/>
+  <circle cx="69" cy="164" r="4" fill="#fc4348"/>
+  <text x="86" y="169" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="#7a7a7c">GUIDES, RULES &amp; SKILLS</text>
+  <text x="60" y="250" font-family="Inter, Helvetica, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-1.4" fill="#000000">Awesome Agent</text>
+  <text x="60" y="327" font-family="Inter, Helvetica, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-1.4" fill="#000000">Instructions</text>
+  <text x="64" y="414" font-family="Georgia, serif" font-size="42" font-style="italic" fill="#484849">Keep the instructions</text>
+  <text x="64" y="466" font-family="Georgia, serif" font-size="42" font-style="italic" fill="#484849">your coding agent needs.</text>
+  <g transform="translate(865 198)">
+    <path d="M18 24V225" stroke="#000000" stroke-opacity=".1"/>
+    <g>
+      <rect x="0" y="0" width="351" height="72" rx="12" fill="#ffffff" stroke="#000000" stroke-opacity=".08"/>
+      <text x="22" y="43" font-family="Menlo, Consolas, monospace" font-size="13" fill="#a0a0a2">01</text>
+      <text x="67" y="43" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#000000">Find repetition</text>
+    </g>
+    <g transform="translate(0 92)">
+      <rect width="351" height="72" rx="12" fill="#ffffff" stroke="#000000" stroke-opacity=".08"/>
+      <text x="22" y="43" font-family="Menlo, Consolas, monospace" font-size="13" fill="#a0a0a2">02</text>
+      <text x="67" y="43" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#000000">Review the diff</text>
+    </g>
+    <g transform="translate(0 184)">
+      <rect width="351" height="72" rx="12" fill="#ffffff" stroke="#000000" stroke-opacity=".08"/>
+      <circle cx="31" cy="36" r="4" fill="#fc4348"/>
+      <text x="67" y="43" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#000000">Keep the boundaries</text>
+    </g>
+  </g>
+  <path d="M64 540H1216" stroke="#000000" stroke-opacity=".08"/>
+  <text x="64" y="586" font-family="Menlo, Consolas, monospace" font-size="15" fill="#7a7a7c">github.com/incline-ltd/awesome-agent-instructions</text>
+  <text x="1216" y="586" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#7a7a7c">Less noise. Clearer instructions.</text>
+</svg>
