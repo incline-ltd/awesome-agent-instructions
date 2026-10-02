@@ -1,0 +1,48 @@
+{
+  "before": {
+    "schema_version": 1,
+    "scope": "selected_files_only",
+    "deduplication": "normalized_paths_only",
+    "token_estimate_method": "ceil(characters / 4) per file; total sums file estimates",
+    "caveat": "Estimates are not live session token usage. Frontmatter delimiters do not validate YAML.",
+    "files": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 465,
+        "characters": 465,
+        "estimated_tokens": 117,
+        "sha256": "6271faac0549837049b779e59538d054ea8b0043175e9144bdaaa63f5e2c4cbe"
+      }
+    ],
+    "totals": {
+      "files": 1,
+      "bytes": 465,
+      "characters": 465,
+      "estimated_tokens": 117
+    },
+    "duplicates_skipped": 0
+  },
+  "after": {
+    "schema_version": 1,
+    "scope": "selected_files_only",
+    "deduplication": "normalized_paths_only",
+    "token_estimate_method": "ceil(characters / 4) per file; total sums file estimates",
+    "caveat": "Estimates are not live session token usage. Frontmatter delimiters do not validate YAML.",
+    "files": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 314,
+        "characters": 314,
+        "estimated_tokens": 79,
+        "sha256": "628fa5f5ef609c5a0ab7b268449c2fd5f9a0e07bdf1edbaddc1444695e2c73de"
+      }
+    ],
+    "totals": {
+      "files": 1,
+      "bytes": 314,
+      "characters": 314,
+      "estimated_tokens": 79
+    },
+    "duplicates_skipped": 0
+  }
+}
