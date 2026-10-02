@@ -1,0 +1,15 @@
+# Claude project instructions
+
+## Verification
+
+Run relevant tests after every code change.
+
+## Public behavior
+
+Document externally visible behavior changes.
+
+## Production changes
+
+The constraints in this section apply to every production system and every deployment path.
+Never run a production migration without explicit owner approval and a reviewed rollback plan.
+This section overrides any procedure that suggests implicit production approval.
