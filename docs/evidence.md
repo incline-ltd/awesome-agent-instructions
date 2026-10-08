@@ -29,9 +29,10 @@ python3 skills/trim-instructions/scripts/measure.py --root examples/after AGENTS
 git diff --check
 ```
 
-The CI workflow is configured for Python 3.10 and 3.13 on Linux. A configured
-workflow is not a successful hosted run; remote CI will have its own result
-after publication. The local test environment is macOS.
+The [main CI run](https://github.com/incline-ltd/awesome-agent-instructions/actions/runs/37054431508)
+passed unit tests, package validation, and commit whitespace checks on Python 3.10
+and 3.13 on Linux at `5a5b2e2ce50271569a69c26a34098c6db95b6cb4`.
+The local test environment is macOS.
 
 The file reader rejects selected symlinks, path traversal, known secret-like
 names, invalid UTF-8, and oversized input. It accepts at most 64 selected paths,
